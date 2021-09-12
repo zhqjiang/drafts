@@ -87,7 +87,7 @@ Dan Abramov
 
 这个 Michael Chan 写的[片段](https://gist.github.com/chantastic/fc9e3853464dffdb1e3c)很好的诠释了这种模式。
 
-## 延伸阅读 
+## 延伸阅读
 
 - [Getting Started with Redux](https://app.egghead.io/playlists/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
 - [Mixins are Dead, Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750)
