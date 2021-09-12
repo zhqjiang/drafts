@@ -10,4 +10,12 @@
 
 原文：[Blogged Answers: Thoughts on React Hooks, Redux, and Separation of Concerns](https://blog.isquaredsoftware.com/2019/07/blogged-answers-thoughts-on-hooks/)
 
+### 3. [测试“奖杯”和测试分级](./The_Testing_trophy_and_Testing_Classifications.md)
+
+原文：[The Testing Trophy and Testing Classifications](https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications)
+
+### 4. [前端应用的“静态-单元-集成-端到端测试”](./static_unit_integration_e2e_tests.md)
+
+原文：[Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/static-vs-unit-vs-integration-vs-e2e-tests)
+
 ## 观点
