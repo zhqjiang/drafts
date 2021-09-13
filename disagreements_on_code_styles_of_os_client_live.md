@@ -166,4 +166,4 @@ useMemo 和 useCallback 作为优化性能的手段，大量使用其实意味�
 1. 首先是对 react hooks 的支持上，testing library 超过 Enzyme。
 
 2. 看看 testing libaray 的作者自己是[怎么说的](./introducing-the-react-testing-library.md)
-   [原文](https://kentcdodds.com/blog/introducing-the-react-testing-library)˝
+   [原文](https://kentcdodds.com/blog/introducing-the-react-testing-library)
