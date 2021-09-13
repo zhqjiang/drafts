@@ -1,4 +1,4 @@
-# 对项目 os-client-live 代码风格的不同意见
+# 对目前项目 os-client-live 代码风格的异议
 
 ## 阅读本文之前
 
