@@ -19,3 +19,5 @@
 原文：[Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/static-vs-unit-vs-integration-vs-e2e-tests)
 
 ## 观点
+
+[对目前 os-client-live 项目代码风格的异议](./disagreements_on_code_styles_of_os_client_live.md)
